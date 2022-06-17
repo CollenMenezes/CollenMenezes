@@ -1,5 +1,3 @@
-![](https://files.catbox.moe/w457k9.gif)
-
 # Who I Am?
 
 🤓❤ I'm just a programming student passionate about scripting languages.
