@@ -35,7 +35,7 @@
 
 
 # **JUST A LITTLE ABOUT ME! 😆**
-So you guys can call me *Collen*, I'm from Brazil. I'm currently 20 years old, and since I was 17 I've been interested in the world of programming. Mainly by scripting languages such as **Lua** and **Bash**. I invited my cousin who is also a programming fanatic, you should see his Repo's too: <a href="https://github.com/CauaSantosCoder"> CauaSantos </a>
+So you guys can call me *Collen*, I'm from Brazil. I'm currently 20 years old, and since I was 17 I've been interested in the world of programming. Mainly by scripting languages such as **LUA** and **BASH**. I invited my cousin who is also a programming fanatic, you should see his Repo's too: <a href="https://github.com/CauaSantosCoder"> CauaSantos </a>
 
 # **KNOWLEDGE IN: 💡**
 - [x] LUA
