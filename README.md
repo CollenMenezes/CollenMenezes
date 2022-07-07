@@ -38,13 +38,13 @@
 So you guys can call me *Collen*, I'm from Brazil. I'm currently 20 years old, and since I was 17 I've been interested in the world of programming. Mainly by scripting languages such as **Lua** and **Bash**. I invited my cousin who is also a programming fanatic, you should see his Repo's too: <a href="https://github.com/CauaSantosCoder"> CauaSantos </a>
 
 # **KNOWLEDGE IN: 💡**
-- [x] Lua
-- [x] Html
+- [x] LUA
+- [x] HTML
 - [x] CSS
-- [x] Python
-- [x] Shell Script
+- [x] PYTHON
+- [x] SHELL SCRIPT
 - [ ] JS - *Learning*
-- [ ] Love2D - *Learning*
+- [ ] LOVE2D - *Learning*
 
 <br>
 
