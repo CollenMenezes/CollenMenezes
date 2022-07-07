@@ -26,7 +26,7 @@
         Instagram: <a href="https://www.instagram.com/collen_oficial/"> @collen_oficial </a>
     </li>
     <li>
-        YouTube: <a href="https://www.youtube.com/CollenMenezes"> CollenMenezes </a>
+        YouTube: <a href="https://www.youtube.com/channel/UCjCkfGB9VRLMTdQJQygDlMA"> Collen </a>
     </li>
     <li>
         GitHub: <a href="https://github.com/CollenMenezes"> CollenMenezes </a>
