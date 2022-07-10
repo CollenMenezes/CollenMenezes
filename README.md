@@ -17,7 +17,7 @@
             <a href="https://github.com/CollenMenezes/ZoFinder.git"> ZoFinder </a>
         </li>
         <li>
-            <a href="https://github.com/CollenMenezes/FPT.git"> Fraud Prevention Tools </>
+            <a href="https://github.com/CollenMenezes/FPT.git"> Fraud Prevention Tools </a>
         </li>
     </strong>
 </lu> <br>
